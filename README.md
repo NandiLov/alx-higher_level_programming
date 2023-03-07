@@ -1,5 +1,3 @@
-# alx-higher_level_programming
-Introduction to Python Programing at ALX
 0x00. Python - Hello, World
 This is a basic introduction to python programming language.
 
@@ -21,11 +19,12 @@ Contents
 101-compile : a script that compiles a Python script file.
 102-magic_calculation.py : Python function def magic_calculation(a, b): that does exactly the same as the given Python bytecode
 lists.h : contains the header file used in 10-check_cycle.c
+
 Resources
 The Python tutorial (only the first three chapters below)
 Whetting Your Appetite
 Using the Python Interpreter
-An Informal Introduction to Python (Read up until ▒~@~\3.1.2. Strings▒~@~] included)
+An Informal Introduction to Python (Read up until “3.1.2. Strings” included)
 How To Use String Formatters in Python 3
 Learn to Program
-Pycodestyle ▒~@~S Style Guide for Python Code
+Pycodestyle – Style Guide for Python Code
