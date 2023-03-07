@@ -1,5 +1,5 @@
-0x00. Python - Hello, World
-This is a basic introduction to python programming language.
+alx-higher_level_programming
+This is a basic introduction to python programming language by ALX.
 
 By Nandila Mulilalila
 
