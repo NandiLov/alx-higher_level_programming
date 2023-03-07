@@ -21,7 +21,10 @@ Contents
 lists.h : contains the header file used in 10-check_cycle.c
 
 Resources
-Python documentation
-Youtube series
-Pycodestyle guide
-Understanding The Zen of Python
+The Python tutorial (only the first three chapters below)
+Whetting Your Appetite
+Using the Python Interpreter
+An Informal Introduction to Python (Read up until “3.1.2. Strings” included)
+How To Use String Formatters in Python 3
+Learn to Program
+Pycodestyle – Style Guide for Python Code
